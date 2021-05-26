@@ -1,0 +1,20 @@
+[
+    {
+        "title":"Udemy",
+        "imageUrl":"https://about.udemy.com/wp-content/uploads/2016/07/about-default.png",
+        "description":"Es un plataforma educativa",
+        "price":"45"
+    },
+    {
+        "title":"platzi",
+        "imageUrl":"https://about.udemy.com/wp-content/uploads/2016/07/about-default.png",
+        "description":"Plataforma",
+        "price":"19"
+    },
+    {
+        "title":"book",
+        "imageUrl":"https://about.udemy.com/wp-content/uploads/2016/07/about-default.png",
+        "description":"Buen curso",
+        "price":"50"
+    }
+]
